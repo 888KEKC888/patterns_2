@@ -1,1 +1,1 @@
-https://ci.appveyor.com/project/888KEKC888/patterns-2
+https://ci.appveyor.com/api/github/webhook?id=fjig578asxqa7lr3
